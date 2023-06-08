@@ -1,5 +1,4 @@
 # resume
-https://github.com/Vineet9086628513/resume.git
 <!DOCTYPE html>
 <html lang="en">
 <head>
